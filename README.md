@@ -1,4 +1,6 @@
 # Real-Time-Web-Application
+Build with Node JS, HTML, CSS and JS.
+
 ## Text Based Game
 
 Repository for a Text Based Game in the class of Real Time Web Application
