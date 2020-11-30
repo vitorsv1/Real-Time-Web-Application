@@ -1,6 +1,7 @@
 # Real-Time-Web-Application
+## Text Based Game
 
-Repository for all the projects in the class Real Time Web Application
+Repository for a Text Based Game in the class of Real Time Web Application
 
 1. Task 1 - You will start with a single-player, chat-like client-server system, using node.js and javascript. 
 The goal of task is mainly to use javascript to create a chat-like game. Libraries like jQuery should be used.
